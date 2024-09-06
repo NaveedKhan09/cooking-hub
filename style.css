@@ -1,0 +1,94 @@
+.logoarea{
+    width: 100%;
+}
+.navbar li a:hover{
+    background-color: rgb(188, 223, 238);
+    color: rgb(202, 23, 23);
+    border-radius: 12px;
+}
+.front{
+    background: url(pic1.jpg) no-repeat;
+    background-size: cover;
+    height: 75vh;
+    
+}
+.recipes{
+    width: 320px;
+}
+.recipes img{
+   width: 230px;
+   height: 140px;
+}
+.child{
+   width: 22rem;
+}
+.child img{
+    width: 11rem;
+}
+.child li{
+    font-size: 0.8rem;
+    
+}
+.footer .folimg{
+    width: 25px;
+    height: 25px;
+}
+
+/* -----------------About Us CSS-------------- */
+
+.image {
+   width: 24rem;
+   height: 15rem;
+}
+.image img {
+    width: 100%;
+    height: 100%;
+}
+.contex {
+    width: 24rem;
+    height: 15rem;
+}
+.blogimage {
+    width: 21rem;
+}
+.blogimage img {
+    width: 21rem;
+    height: 13rem;
+}
+.blogtext {
+    width: 21rem;
+    padding: 5px;
+}
+.blogtext h6:hover {
+    text-decoration: underline;
+    color: rgb(36, 180, 206);
+}
+.blogtext button:hover {
+    background-color: rgb(236, 107, 107);
+    color: white;
+    border: none;
+}
+
+/*------------------Contact Us-------------------*/
+
+.Feedback form button:hover {
+    background-color: rgb(236, 107, 107);
+    color: white;
+    border: none;
+}
+ul li .icon1 {
+    color: rgb(173, 36, 36);
+}
+ul li .icon2 {
+    color: rgb(101, 140, 224);
+}
+.socialside ul li {
+    padding: 2px;
+    width: 200px;
+}
+
+.socialside ul li:hover {
+
+    box-shadow: 0 0 11px rgba(33,33,33,.2);
+}
+
